@@ -1,4 +1,5 @@
-#California Housing Prices ML Project
+# ML-project1
+California Housing Prices ML Project
 About the Dataset
 The California Housing dataset is featured in the second chapter of Aurélien Géron's book, Hands-On Machine Learning with Scikit-Learn and TensorFlow. This dataset serves as an excellent introduction to machine learning algorithms, as it requires basic data cleaning, offers a straightforward list of variables, and is appropriately sized—neither too simplistic nor overly complex. The data originates from the 1990 California census, making it less relevant for current housing price predictions compared to datasets like Zillow's Zestimate, but it remains a valuable resource for teaching the fundamentals of machine learning.
 Content
